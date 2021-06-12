@@ -94,3 +94,8 @@ const diaAmanha = new Date(diaHoje); // Inserir a data atual dentro de outra dat
                         // }
                     })
                 });
+
+
+Retornar só o ano
+
+var ano = new Date().getFullYear() -1
